@@ -1,0 +1,20 @@
+# 忽略 PyCharm 配置
+.idea/
+
+# 忽略 Python 缓存
+__pycache__/
+*.pyc
+
+# 忽略虚拟环境
+venv/
+env/
+*.egg-info/
+
+# 忽略日志、临时文件
+*.log
+*.tmp
+.DS_Store
+
+data/
+*.pth
+*.pt
